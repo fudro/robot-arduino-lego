@@ -1,0 +1,26 @@
+Arduino Uno PCB Dimensions
+L 68.6 mm
+W 53.3 mm
+T 4.5 mm
+
+Arduino Uno PCB Drill Hole Placement
+SPI Side - Hole distance center to center 28 mm
+Analog Side - Hole Distance center to center 52.5 mm
+USB Side - Hole Distance center to center 48.0 mm
+Digital Side - Hole distance center to center 51.25 mm
+All Sides - Edge of hole to Edge of PCB 1.0 mm
+
+Arduino Mounting Screws
+Drill Holes Diameter 3.15 mm. Fits machine screw 4/40 
+4/40 Hex Nut Width 6.28 mm
+4/40 Hex Nut Thickness 2.38 mm
+
+Handy LEGO Measurements
+LEGO Beam Thickness (min thickness to support holes) 7.85 mm
+LEGO Beam Hole Side by Side Distance 7.75 mm
+LEGO 3 Hole distance (from first center to third center) 15.5 mm
+LEGO Hole Diameter 4.75 mm
+LEGO Hole Rim Diameter 6.0 mm
+LEGO Hole Rim Depth 0.75 mm
+
+
