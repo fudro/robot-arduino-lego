@@ -15,12 +15,27 @@ Drill Holes Diameter 3.15 mm. Fits machine screw 4/40
 4/40 Hex Nut Width 6.28 mm
 4/40 Hex Nut Thickness 2.38 mm
 
-Handy LEGO Measurements
+LEGO Dimensions
 LEGO Beam Thickness (min thickness to support holes) 7.85 mm
 LEGO Beam Hole Side by Side Distance 7.75 mm
 LEGO 3 Hole distance (from first center to third center) 15.5 mm
 LEGO Hole Diameter 4.75 mm
 LEGO Hole Rim Diameter 6.0 mm
 LEGO Hole Rim Depth 0.75 mm
+LEGO Turntable Distance between legs 32 mm
+
+Micro Servo Dimensions
+Servo Width 12.25 mm
+Servo Length 23 mm
+Distance from mounting lip edge to servo wall 4 mm
+Distance from side wall to center of mounting lip drill hole 2 mm
+Distance from base of servo to bottom of servo mounting lip 18 mm
+Mounting Lip Hole Diameter 2 mm
+Distance from center hole of turntable leg to rear wall of servo 7 mm
+Distance from center hole of turntable leg to front wall of servo 16 mm
+Height from top of top of 3D printed LEGO plate to bottom of Servo Mounting Lip 11 mm
+
+
+
 
 
